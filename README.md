@@ -1,4 +1,4 @@
-# Apex-LootMap
+# Apex-LootMap (this is a sample of the core codebase)
 An Eclipse project for a java-based tool for mapping item spawns in the game Apex Legends
 
 The purpose was to discover more information about the loot spawn system in the game and general PRNG distribution.
